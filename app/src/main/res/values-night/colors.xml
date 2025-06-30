@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark_blue">#000080</color> <color name="primary_darker_blue">#000050</color> <color name="accent_dark_blue">#1E90FF</color> <color name="background_dark">#000000</color> <color name="text_light">#FFFFFF</color> <color name="text_hint_dark">#BBBBBB</color> <color name="surface_dark">#121212</color> <color name="error_red">#CF6679</color> </resources>
